@@ -1,7 +1,7 @@
 # Introduction to probabilistic programming
 
 Computations for the bayesian linear regression example are available in the 
-[PyMC3 notebook](PyMC3 for boston dataset.ipynb), as well as additional links
+[PyMC3 notebook](./PyMC3%20for%20boston%20dataset.ipynb), as well as additional links
 for related subjects.
 
 The second example is a slightly modified version of [this PyMC3 doc example by 
